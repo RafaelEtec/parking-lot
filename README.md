@@ -1,2 +1,2 @@
-Parking lot software \
+Parking lot api \
 Made with Go and Gin
